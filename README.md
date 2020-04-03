@@ -33,6 +33,9 @@ php artisan migrate
   composer require laravel/ui
 ```
 ```
+php artisan ui vue --auth
+```
+```
   npm install 
 ```
 ```
